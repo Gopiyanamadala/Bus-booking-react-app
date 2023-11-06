@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+}
+.headerappname,.headerquote{
+    color: white;
+}
+.headerappname{
+    font-family: Copperplate, Papyrus, fantasy;
+}
+.headerquote{
+    font-family: 'Courier New', monospace;
+}
+.headerbutton1{
+    margin-top:1%;
+    margin-left:90%;
+    height:50px;
+    border-radius:55%;
+    background: rgba(235, 244, 236, 0.3);
+    border:2px solid white;
+}
+.headerbutton{
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    color: black;
+}

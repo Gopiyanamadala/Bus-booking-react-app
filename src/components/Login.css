@@ -1,0 +1,45 @@
+.login{
+    margin-left:35%;
+    margin-top:10%;
+    margin-right:35%;
+    margin-bottom:8%;
+    width: auto;
+    border: 2px solid black;
+    background-color: black;
+    border-radius:10px;
+}
+.loginemail,.loginpassword{
+    width:300px;
+    height:40px;
+    margin-top: 2px;
+    margin-left:16%;
+    border-radius:5px;
+    border-color: white;
+}
+.logintext{
+    margin-left: 20px;
+    color: white;
+}
+.loginsubmit{
+    margin-left:43%;
+    height:45px;
+    width:70px;
+    border-radius:25%;
+    border-color:white;
+    margin-bottom:0%;
+}
+.loginor{
+    margin-left: 50%;
+    margin-bottom:2%;
+    color: white;
+}
+.loginsignup{
+margin-left:43%;
+text-decoration:none;
+color: beige;
+}
+::placeholder {
+    font-size:15px;
+    text-align: center;
+    font-style: inherit;
+  }

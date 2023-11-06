@@ -1,0 +1,65 @@
+.seatbooking{
+    display: flex;
+    flex-direction: column;
+}
+.seatlayout{
+    border:2px solid black;
+    border-radius:5%;
+    margin-right:65%;
+    margin-left:15%;
+    margin-top:2%;
+    margin-bottom:2%;
+    background-color: #ECB365;
+}
+.layout{
+    display: flex;
+    flex-direction: row;
+    margin-left:12%;
+    margin-top:4%;
+    margin-right: 0%;
+}
+.col3{
+    margin-left:15.5%;
+}
+.last{
+    display: flex;
+    flex-direction:row;
+    margin-left:12%;
+    margin-top:5%;
+    margin-bottom:9%;
+}
+.seat{
+    margin-top:30%;
+    background-color:#EAD7BB;
+    border:1px dotted #113946;
+    padding:13px;
+}
+.seat1{
+    background-color:#EAD7BB;
+    border:1px dotted #113946;
+    padding:13px;
+}
+.passdetails{
+    margin-top:60%;
+    margin-left: 100%;
+}
+.pasname,.pasage,.pasgender,.pasnumber,.passeatno,.passubmit{
+    padding: 5%;
+    margin-bottom:10%;
+    background-color:white;
+}
+.pasname,.pasage,.pasgender,.pasnumber,.passeatno,.passprice{
+    width:700%;
+    height:40px;
+    font-size: large;
+    text-align: center;
+}
+.passubmit{
+    margin-top:20%;
+    width:300%;
+    height:50px;
+    border-color: white;
+    background-color:white;
+    margin-left:200%;
+    border-radius:10%;
+}

@@ -1,0 +1,8 @@
+.slides{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mySlides{
+    width:600px;
+}

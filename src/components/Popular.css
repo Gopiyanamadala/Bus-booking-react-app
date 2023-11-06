@@ -1,0 +1,18 @@
+.popular{
+    display: flex;
+    flex-direction: row;
+}
+.popularul1{
+    margin-left:20%;
+    margin-top:5%;
+}
+.popularul2{
+    margin-left:20%;
+    margin-top:5%;
+}
+.popularli{
+    color: white;
+    font-size:30px;
+    margin-top:5%;
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,31 @@
+.bookingdetails{
+    text-align: center;
+    
+}
+.bddiv{
+    border:3px solid #BCA37F;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:2%;
+    border-radius: 17px;
+    background-color: #BCA37F;
+}
+.bdh1{
+    margin-top:2%;
+    font-size:30px;
+}
+.bdinput{
+    width:250px;
+    height:40px;
+    font-size:25px;
+    text-align: center;
+}
+.bdsubmit{
+    width:100px;
+    height:40px;
+}
+.detailuser,.detailage,.detailseat{
+    color:black;
+}
+.bookdetails{
+}
